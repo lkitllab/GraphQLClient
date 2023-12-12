@@ -1,0 +1,1 @@
+Wrapper around Apollo client based on generics. Provides more comfortable routine to fetch/upload/perform GraphQLQueries. Additionally added custom interceptors to work with bearer token authorisation.
